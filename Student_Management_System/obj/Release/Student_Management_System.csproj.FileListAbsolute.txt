@@ -1,0 +1,24 @@
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\studentdb.accdb
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\Student Management System.exe.config
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\Student Management System.exe
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\Student Management System.pdb
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.csprojAssemblyReference.cache
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.login_win.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Form10.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Form2.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.student_reg.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Form7.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Properties.Resources.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.csproj.GenerateResource.cache
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student Management System.exe
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student Management System.pdb
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\Student Management System.exe.manifest
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\bin\Release\Student Management System.application
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student Management System.exe.manifest
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student Management System.application
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.AboutBox.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Student_log.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Admin_Reg.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Students.resources
+C:\Users\Excellent_Torch\Desktop\C# Project\Student_Management_System\Student_Management_System\obj\Release\Student_Management_System.Student_Man.resources
